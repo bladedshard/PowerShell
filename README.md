@@ -1,6 +1,6 @@
 # PowerShell
 
-Scripts that are built for Windows server (OPowerShell) for domain,user creation/deletion as well as others.
+Scripts that are built for Windows server (PowerShell) for domain,user creation/deletion as well as others.
 
 This repo includes.
 
