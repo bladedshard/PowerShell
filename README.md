@@ -8,13 +8,25 @@ This repo includes.
 
 2: The scripts for each designated option.
 
-3: Extra information if you want to request a custom script to be built for your company.    REQUIRES: an email server.   The script will provide a prompt for a description as to what you want and how you would like me to code the script for you.   It will also provide a prompt for a way of contact so I am able to contact you after completion of the project for you.
+3: Extra information if you want to request a custom script to be built for your company.
 
 
-
-
-
+The script will provide a prompt for a description as to what you want and how you would like me to code the script for you.   It will also provide a prompt for a way of contact so I am able to contact you after completion of the project.
 
 
 IMPORTANT,   Scripts will ONLY work on Windows Servers. If you want the scripts to work properly you must being run as administrator.  
 
+
+
+REQUIREMENTS:
+Administrator Rights
+and
+Windows Server w/ powershell
+
+
+
+
+
+
+
+For any Requests or problems,  please feel free to email me at.....(Will be posted soon)
