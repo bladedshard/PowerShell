@@ -1,6 +1,6 @@
 # PowerShell
 
-Scripts that are built for Windows server (PowerShell) for domain,user creation/deletion as well as others.
+Scripts that are built for Windows server (PowerShell) for domain,user creation/deletion as well as many others.
 
 This repo includes.
 
@@ -14,12 +14,11 @@ This repo includes.
 The script will provide a prompt for a description as to what you want and how you would like me to code the script for you.   It will also provide a prompt for a way of contact so I am able to contact you after completion of the project.
 
 
-IMPORTANT,   Scripts will ONLY work on Windows Servers. If you want the scripts to work properly you must being run as administrator.  
-
+4:   These scripts are built, tested and debugged specifically by me and then sent off to
 
 
 REQUIREMENTS:
-Administrator Rights
+Administrator Rights (Will NOT work without)
 and
 Windows Server w/ powershell
 
